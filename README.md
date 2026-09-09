@@ -1,0 +1,1 @@
+A personal repository tracking the notes ,code and exercises based on the Comprehensive Rust  book from Googles 4 day program. 
